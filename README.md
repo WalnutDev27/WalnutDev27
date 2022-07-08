@@ -5,7 +5,8 @@ Ok, so...
 My Name is TenWalnut581727, but my friends call me Walnut, i'm backend developer with knowledge in: 
 > - Database managment
 > - DevOps
-> - Frontend development
+> - Frontend development (basic)
+> - Low profile developer
 > - Server administration
 > - and more...
 
