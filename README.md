@@ -21,7 +21,7 @@ My Name is TenWalnut581727, but my friends call me Walnut, i'm backend developer
 ## My specific areas be:
 <p align="center"><a href="#">
  <p align="center"><a href="#"> 
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?logoColor=81a1c1&logo=Visual  Studio Code" /> </br>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?logoColor=81a1c1&logo=Visual Studio Code" /> </br>
  </a></p>
  
  <p align="center"><a href="#">
