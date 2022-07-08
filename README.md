@@ -11,8 +11,8 @@ My Name is TenWalnut581727, but my friends call me Walnut, i'm backend developer
 
 ## My status
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=WalnutDev27&show_icons=true&theme=radical"></img> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalnutDev27&layout=compact&theme=radical" width="495"  height="220"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=WalnutDev27&show_icons=true&theme=radical" width="400"  height="220"></img> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalnutDev27&layout=compact&theme=radical" width="400"  height="220"></img>
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=WalnutDev27&margin-w=28&margin-h=15&theme=radical" />
