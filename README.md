@@ -21,18 +21,18 @@ My Name is TenWalnut581727, but my friends call me Walnut, i'm backend developer
 ## My specific areas be:
 <p align="center"><a href="#">
  <p align="center"><a href="#"> 
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?logoColor=81a1c1&logo=Visual Studio Code" /> </br>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?logoColor=ffffff&logo=Visual Studio Code" /> </br>
  </a></p>
  
  <p align="center"><a href="#">
-  <img src="https://img.shields.io/badge/-Linut-f05032?logoColor=81a1c1&logo=Linux" />
-  <img src="https://img.shields.io/badge/-Git-fCC624?logoColor=81a1c1&logo=Git" /> </br>
+  <img src="https://img.shields.io/badge/-Linut-f05032?logoColor=ffffff&logo=Linux" />
+  <img src="https://img.shields.io/badge/-Git-fCC624?logoColor=ffffff&logo=Git" /> </br>
  </a></p>
 
  <p align="center"><a href="#">
-  <img src="https://img.shields.io/badge/-C-a8b9cc?logoColor=81a1c1&logo=C" />
-  <img src="https://img.shields.io/badge/-C++-00599c?logoColor=81a1c1ogo=C++" />
-  <img src="https://img.shields.io/badge/-C Sharp-239120?logoColor=81a1c1&logo=Csharp" /> </br>
+  <img src="https://img.shields.io/badge/-C-a8b9cc?logoColor=ffffff&logo=C" />
+  <img src="https://img.shields.io/badge/-C++-00599c?logoColor=ffffff&logo=C++" />
+  <img src="https://img.shields.io/badge/-C Sharp-239120?logoColor=ffffff&logo=Csharp" /> </br>
  </a></p>
  
  <p align="center"><a href="#">
